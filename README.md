@@ -16,6 +16,6 @@ Feel free to reach out:
 
 - 💬 Drop a comment here.
 - 🌐 Fill out the form on my [Website](#coming-soon).
-- 📱 Connect with me on [LinkedIn] https://www.linkedin.com/in/siddhxrth127/.
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhxrth127).
 
 Looking forward to connecting and exploring opportunities in the fascinating realms of cybersecurity and web development!
